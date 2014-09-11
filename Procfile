@@ -1,1 +1,1 @@
-web: bin/hubot --adpater hipchat -n Robo
+web: bin/hubot --adpater hipchat
